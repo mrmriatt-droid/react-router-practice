@@ -20,7 +20,7 @@ function App() {
   return (
     <ProductsProvider>
       <CartProvider>
-        <BrowserRouter>
+        <BrowserRouter basename="/react-router-practice">
           <Routes>
             <Route element={<MainLayout />}>
               <Route path="/" element={<Home />} />
