@@ -27,7 +27,10 @@ A responsive React application built to practice React concepts, routing, state 
 - JSONPlaceholder API
 - Local Storage
 
-https://mrmriatt-droid.github.io/react-router-practice/
+
 ---
 
 **Built with React and Vite.**
+
+
+https://mrmriatt-droid.github.io/react-router-practice/
